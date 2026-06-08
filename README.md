@@ -164,8 +164,4 @@ Trader-Ranking-System
 
 ## Author
 
-Vansh Krishali
-
-Bachelor of Computer Applications (BCA)
-
-Python | Data Analytics | Machine Learning
+Vansh
